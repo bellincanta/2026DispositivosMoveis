@@ -43,7 +43,7 @@ Desenvolvimento de aplicações móveis: **componentes e layout**, **estilizaç�
 
 ## Aulas (links)
 > Esta seção será atualizada conforme as aulas forem publicadas.
-- [Aula 01 — Introdução ao React Native + Expo](./aulas/01-introducao-react-native-expo.md)
+- [Aula 01 — Introdução ao React Native + Expo](./aulas/aula01/aula01.md)
 
 ---
 
