@@ -47,6 +47,12 @@ Desenvolvimento de aplicações móveis: **componentes e layout**, **estilizaç�
 
 ---
 
+## Atividades (links)
+> Esta seção será atualizada conforme as atividades forem publicadas.
+- [Projeto Final — Mobile + API (2026)](./projetoFinal.md)
+
+---
+
 ## Comunicação e dúvidas
 - **Não respondo por WhatsApp.**
 - Dúvidas podem ser tratadas:
@@ -67,4 +73,3 @@ Desenvolvimento de aplicações móveis: **componentes e layout**, **estilizaç�
 | **B** | **7,0 – 8,9** |
 | **C** | **5,0 – 6,9** |
 | **D** | **Abaixo de 4,9** |
-
