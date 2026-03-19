@@ -44,6 +44,7 @@ Desenvolvimento de aplicações móveis: **componentes e layout**, **estilizaç�
 ## Aulas (links)
 > Esta seção será atualizada conforme as aulas forem publicadas.
 - [Aula 01](./aulas/aula01/aula01.md)
+- [Aula 02](./aulas/aula02/aula02.md)
 
 ---
 
