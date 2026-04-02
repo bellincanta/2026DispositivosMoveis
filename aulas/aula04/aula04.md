@@ -195,7 +195,7 @@ const styles = StyleSheet.create({
 - tornam a leitura mais clara;
 - ajudam a reaproveitar partes visuais do projeto.
 
-A ideia de separar responsabilidades entre arquivos e componentes acompanha a mesma lógica de organização já usada na criação de componentes em React Native. fileciteturn0file2
+A ideia de separar responsabilidades entre arquivos e componentes acompanha a mesma lógica de organização já usada na criação de componentes em React Native. 
 
 ---
 
