@@ -1,20 +1,5 @@
 # React Native — Criando componentes
 
-## Objetivo da aula
-
-Nesta aula, o foco é entender o conceito de **componente** no React Native e perceber como ele ajuda a **organizar**, **reaproveitar** e **manter** melhor o código da aplicação.
-
-Ao final da aula, o estudante deve ser capaz de:
-
-- entender o que é um componente;
-- criar um componente de classe no React Native;
-- usar um componente dentro de outro componente;
-- passar **props** para um componente;
-- acessar essas props com `this.props`;
-- identificar erros comuns ao trabalhar com props em TypeScript.
-
----
-
 ## O que é um componente?
 
 Em React Native, um componente é uma parte da interface da aplicação.
@@ -39,15 +24,12 @@ Isso deixa o projeto:
 
 ---
 
-## Ideia principal da aula
 
-Nesta aula, vamos criar um componente chamado `Imagem`.
+## Projeto da aula
 
-A ideia é simples:
+A pasta com o projeto utilizado nesta aula pode ser acessada no link abaixo:
 
-- o `App` continuará sendo o componente principal;
-- o componente `Imagem` ficará responsável por mostrar a imagem;
-- depois, vamos melhorar esse componente, fazendo com que ele receba informações por **props**.
+[2026DispositivosMoveis/aulas/aula03/exemploAula03](2026DispositivosMoveis/aulas/aula03/exemploAula03)
 
 ---
 
@@ -501,67 +483,3 @@ Mostra que o componente pode retornar mais de um elemento visual.
 
 ### Exemplo 4
 Mostra como deixar também o texto dinâmico com props.
-
----
-
-## Estrutura sugerida para organizar o projeto
-
-Para fins didáticos, os exemplos desta aula podem ficar todos dentro do `App.tsx`.
-
-Mas em um projeto mais organizado, o ideal seria separar o componente em outro arquivo.
-
-### Exemplo de estrutura
-
-```text
-meuApp/
-├── App.tsx
-├── package.json
-├── tsconfig.json
-└── src/
-    └── components/
-        └── Imagem.tsx
-```
-
-Nesse cenário:
-
-- `App.tsx` ficaria responsável pela tela principal;
-- `Imagem.tsx` ficaria responsável apenas pelo componente de imagem.
-
----
-
-## Resumo final
-
-- Um componente é uma parte reutilizável da interface.
-- Componentes ajudam a organizar melhor o código.
-- Nomes de componentes devem começar com letra maiúscula.
-- Um componente pode ser usado dentro de outro componente.
-- Props servem para enviar dados do componente pai para o componente filho.
-- Em componentes de classe, props são acessadas com `this.props`.
-- No TypeScript, a interface define quais props o componente aceita.
-- Se uma prop for usada sem estar declarada na interface, o TypeScript mostrará erro.
-
----
-
-## Sugestão de prática em sala
-
-1. Executar o **Exemplo 1** e mostrar o componente `Imagem` funcionando.
-2. Alterar para o **Exemplo 2** e testar tamanhos diferentes.
-3. Evoluir para o **Exemplo 3** e inserir um texto fixo abaixo da imagem.
-4. Finalizar com o **Exemplo 4** e alterar o texto por meio de props.
-5. Pedir que os alunos troquem:
-   - o valor de `largura`;
-   - o valor de `altura`;
-   - o texto enviado em `nome2`.
-
----
-
-## Exercício sugerido
-
-Crie um componente chamado `FotoProduto` que:
-
-- receba por props a largura da imagem;
-- receba por props a altura da imagem;
-- receba por props o nome do produto;
-- exiba uma imagem e o nome do produto abaixo dela.
-
-Depois, use esse componente dentro do `App`.
