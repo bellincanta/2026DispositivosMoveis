@@ -29,7 +29,7 @@ Isso deixa o projeto:
 
 A pasta com o projeto utilizado nesta aula pode ser acessada no link abaixo:
 
-[projeto aula 03](2026DispositivosMoveis/aulas/aula03/exemploAula03)
+([projeto aula 03](./exemploAula03))
 
 ---
 
