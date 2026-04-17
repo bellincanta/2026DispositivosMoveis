@@ -57,6 +57,8 @@ Desenvolvimento de aplicações móveis: **componentes e layout**, **estilizaç�
 ## Atividades (links)
 > Esta seção será atualizada conforme as atividades forem publicadas.
 - [Projeto Final — Mobile + API (2026)](./atividades/projetoFinal.md)
+- [Atv 01 — 1º Bimestre](./atividades/Atv01_1Bim.md)
+- [Atv 02 — 1º Bimestre](./atividades/Atv02_1Bim.md)
 
 ---
 
