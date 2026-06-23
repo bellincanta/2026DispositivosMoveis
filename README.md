@@ -51,7 +51,7 @@ Desenvolvimento de aplicações móveis: **componentes e layout**, **estilizaç�
 - [Aula 06](./aulas/aula06/aula06.md)
 - [Aula 07](./aulas/aula07/aula07.md)
 - [Aula 08](./aulas/aula08/aula08.md)
-
+- [Aula 09](./aulas/aula08/aula09.md)
 
 ---
 
@@ -60,7 +60,7 @@ Desenvolvimento de aplicações móveis: **componentes e layout**, **estilizaç�
 - [Projeto Final — Mobile + API (2026)](./atividades/projetoFinal.md)
 - [Atv 01 — 1º Bimestre](./atividades/1ºBim/Atv01_1Bim.md)
 - [Atv 02 — 1º Bimestre](./atividades/1ºBim/Atv02_1Bim.md)
-- [Atv 01 — 2º Bimestre](./atividades/2ºBim/Atv01_2Bim.md)
+- [Atv 01 — 2º Bimestre](./atividades/2ºBim/Atv02_2Bim.md)
 
 
 ---
