@@ -104,29 +104,29 @@ A situação é classificada assim:
 
 ## 4. Requisitos funcionais (RF)
 
-| ID | Requisito | Aula(s) |
-|----|-----------|---------|
-| RF01 | A tela deve ter **três campos numéricos** para as notas (nota 1, nota 2 e nota 3). | 07 |
-| RF02 | Deve existir um botão **"Calcular média"** que dispara o cálculo. | 07 |
-| RF03 | Ao calcular, o app deve exibir a **média** e a **situação** (Aprovado / Recuperação / Reprovado). | 04, 07 |
-| RF04 | A cor da situação deve **mudar conforme a faixa** (estilo condicional). | 04 |
-| RF05 | O app deve **validar** a entrada: não calcular se algum campo estiver vazio, não numérico ou fora do intervalo 0–10. Mostrar aviso com `alert()`. | 07 |
-| RF06 | Cada cálculo realizado deve ser **adicionado a um histórico**. | 07, 08 |
-| RF07 | O histórico deve ser exibido em uma **`FlatList`**, mostrando as três notas, a média e a situação de cada registro. | 08 |
-| RF08 | A lista deve ter **cabeçalho** (título), **separador** entre itens e **rodapé** com o total de cálculos. | 08 |
-| RF09 | Deve haver um botão **"Limpar histórico"** que esvazia a lista. | 04, 07 |
+| ID | Requisito | 
+|----|-----------|
+| RF01 | A tela deve ter **três campos numéricos** para as notas (nota 1, nota 2 e nota 3). | 
+| RF02 | Deve existir um botão **"Calcular média"** que dispara o cálculo. |
+| RF03 | Ao calcular, o app deve exibir a **média** e a **situação** (Aprovado / Recuperação / Reprovado). |
+| RF04 | A cor da situação deve **mudar conforme a faixa** (estilo condicional). |
+| RF05 | O app deve **validar** a entrada: não calcular se algum campo estiver vazio, não numérico ou fora do intervalo 0–10. Mostrar aviso com `alert()`. |
+| RF06 | Cada cálculo realizado deve ser **adicionado a um histórico**. |
+| RF07 | O histórico deve ser exibido em uma **`FlatList`**, mostrando as três notas, a média e a situação de cada registro. |
+| RF08 | A lista deve ter **cabeçalho** (título), **separador** entre itens e **rodapé** com o total de cálculos. |
+| RF09 | Deve haver um botão **"Limpar histórico"** que esvazia a lista. |
 
 ## 5. Requisitos não funcionais (RNF)
 
 | ID | Requisito | Aula(s) |
 |----|-----------|---------|
-| RNF01 | Implementar em **React Native + TypeScript** (arquivos `.tsx`). | 02 |
-| RNF02 | A tela principal (`App.tsx`) deve ser um **componente de classe**, seguindo o padrão das aulas 07 e 08. | 02, 07 |
-| RNF03 | O `state` deve ser **tipado** com `type`/`interface` (nada de `any`). | 04, 07 |
-| RNF04 | O item do histórico deve ser um **componente próprio em arquivo separado**, recebendo dados por **props tipadas**. | 03, 08 |
-| RNF05 | Os estilos devem ficar em **grupos** com `StyleSheet.create()`. | 04 |
-| RNF06 | O teclado dos campos de nota deve ser **numérico** (`keyboardType="numeric"`). | 07 |
-| RNF07 | O layout deve usar **Flexbox** (linhas com `flexDirection: 'row'`, alinhamentos com `justifyContent`/`alignItems`) e `flex` no contêiner principal. | 05, 06 |
+| RNF01 | Implementar em **React Native + TypeScript** (arquivos `.tsx`). |
+| RNF02 | A tela principal (`App.tsx`) deve ser um **componente de classe**, seguindo o padrão das aulas 07 e 08. |
+| RNF03 | O `state` deve ser **tipado** com `type`/`interface` (nada de `any`). |
+| RNF04 | O item do histórico deve ser um **componente próprio em arquivo separado**, recebendo dados por **props tipadas**. |
+| RNF05 | Os estilos devem ficar em **grupos** com `StyleSheet.create()`. |
+| RNF06 | O teclado dos campos de nota deve ser **numérico** (`keyboardType="numeric"`). |
+| RNF07 | O layout deve usar **Flexbox** (linhas com `flexDirection: 'row'`, alinhamentos com `justifyContent`/`alignItems`) e `flex` no contêiner principal. |
 
 ---
 
