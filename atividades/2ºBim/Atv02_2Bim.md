@@ -156,15 +156,15 @@ O app pode funcionar em **uma única tela rolável**. Sugestão de organização
 
 ```
 situacao-do-aluno/
-├── App.tsx                         # componente de classe principal (state, cálculo, FlatList)
+├── App.tsx                         
 ├── src/
 │   ├── components/
-│   │   ├── ItemHistorico.tsx       # item da lista (props tipadas) — aula 03 e 08
-│   │   └── CardResultado.tsx       # card de média/situação (props tipadas) — aula 03
+│   │   ├── ItemHistorico.tsx       
+│   │   └── CardResultado.tsx       
 │   ├── types/
-│   │   └── registro.ts             # type RegistroNota (export) — aula 08
+│   │   └── registro.ts             
 │   └── styles/
-│       └── styles.ts               # grupos de estilo (StyleSheet) — aula 04
+│       └── styles.ts              
 ```
 
 ---
