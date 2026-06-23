@@ -121,7 +121,7 @@ A situação é classificada assim:
 | ID | Requisito |
 |----|-----------|
 | RNF01 | Implementar em **React Native + TypeScript** (arquivos `.tsx`). |
-| RNF02 | A tela principal (`App.tsx`) deve ser um **componente de classe**, seguindo o padrão das aulas 07 e 08. |
+| RNF02 | A tela principal (`App.tsx`) deve ser um **componente de classe**. |
 | RNF03 | O `state` deve ser **tipado** com `type`/`interface` (nada de `any`). |
 | RNF04 | O item do histórico deve ser um **componente próprio em arquivo separado**, recebendo dados por **props tipadas**. |
 | RNF05 | Os estilos devem ficar em **grupos** com `StyleSheet.create()`. |
