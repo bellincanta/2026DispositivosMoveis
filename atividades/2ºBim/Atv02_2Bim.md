@@ -118,8 +118,8 @@ A situação é classificada assim:
 
 ## 5. Requisitos não funcionais (RNF)
 
-| ID | Requisito | Aula(s) |
-|----|-----------|---------|
+| ID | Requisito |
+|----|-----------|
 | RNF01 | Implementar em **React Native + TypeScript** (arquivos `.tsx`). |
 | RNF02 | A tela principal (`App.tsx`) deve ser um **componente de classe**, seguindo o padrão das aulas 07 e 08. |
 | RNF03 | O `state` deve ser **tipado** com `type`/`interface` (nada de `any`). |
