@@ -74,7 +74,7 @@ O app trabalha com **dois momentos** (podem ser duas telas ou um único componen
 
 ---
 
-# Exercício 01 — App "Situação do Aluno"
+# Exercício 02 — App "Situação do Aluno"
 
 ## 1. Contexto
 
