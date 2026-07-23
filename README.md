@@ -52,6 +52,7 @@ Desenvolvimento de aplicações móveis: **componentes e layout**, **estilizaç�
 - [Aula 07](./aulas/aula07/aula07.md)
 - [Aula 08](./aulas/aula08/aula08.md)
 - [Aula 09](./aulas/aula09/aula09.md)
+- [Aula 10](./aulas/aula10/aula10.md)
 
 ---
 
