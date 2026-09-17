@@ -1,0 +1,1 @@
+https://download-directory.github.io/?url=https://github.com/bellincanta/2026DispositivosMoveis/tree/main/projeto/appEstoque
