@@ -56,6 +56,11 @@ Desenvolvimento de aplicações móveis: **componentes e layout**, **estilizaç�
 
 ---
 
+## Projeto (link)
+- [appEstoque](./projeto/appEstoque/)
+
+---
+
 ## Atividades (links)
 > Esta seção será atualizada conforme as atividades forem publicadas.
 - [Projeto Final — Mobile + API (2026)](./atividades/projetoFinal.md)
