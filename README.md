@@ -68,6 +68,9 @@ Desenvolvimento de aplicações móveis: **componentes e layout**, **estilizaç�
 - [Atv 01 — 2º Bimestre](./atividades/2ºBim/Atv02_2Bim.md)
 - [Atv 01 - 3º Bimestre](./atividades/3ºBim/atv01-02.md)
 - [Atv 02 - 3º Bimestre](./atividades/3ºBim/atv01-02.md)
+- [Atv 01 - 4º Bimestre](./atividades/4ºBim/atv01-02.md)
+- [Atv 02 - 4º Bimestre](./atividades/4ºBim/atv01-02.md)
+
 
 
 ---
